@@ -28,10 +28,7 @@ https://kzlabs.com/punishment/3.php?fname=
   ```Screemshot 1 : ``` TThe Report Shows Payload add in search bar . Location where payload should be insert. 
   
 
-
-
-
-
+<img width="1920" height="1080" alt="Screenshot From 2026-05-25 16-40-29" src="https://github.com/user-attachments/assets/946d6ec3-f0cb-4088-a7d6-daa05dabba0e" />
 
 
 
@@ -39,6 +36,7 @@ https://kzlabs.com/punishment/3.php?fname=
  
  
 
+<img width="1920" height="1080" alt="Screenshot From 2026-05-25 16-40-37" src="https://github.com/user-attachments/assets/fed2d6d9-4725-4eb3-8da0-d656cdc6d6e8" />
 
 
 
