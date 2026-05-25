@@ -32,6 +32,9 @@ https://kzlabs.com/punishment/3.php?fname=
 
 
 
+
+
+
  ```Screenshot 2 : ``` The Report Shows Successfully the Payload has worked and Pop up Box get Fired.
  
  
