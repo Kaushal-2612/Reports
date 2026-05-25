@@ -26,7 +26,8 @@ IN https://kzlabs.com/punishment/1.php?fname first name  box is vulnerable to re
 ## Proof of Concept Request
   ```Screemshot 1 : ``` TThe Report Shows Payload add in search bar . Location where payload should be insert. 
   
-<img width="1920" height="1080" alt="Screenshot From 2026-05-25 16-13-31" src="https://github.com/user-attachments/assets/63af2781-0ad1-4266-8f8d-7b7d64ff41a8" />
+<img width="1920" height="1080" alt="Screenshot From 2026-05-25 16-13-00" src="https://github.com/user-attachments/assets/38bd5f58-ce62-43f8-9291-fb798e0dcfea" />
+
 
  
 
@@ -34,8 +35,7 @@ IN https://kzlabs.com/punishment/1.php?fname first name  box is vulnerable to re
  
  
  
-<img width="1920" height="1080" alt="Screenshot From 2026-05-25 16-13-00" src="https://github.com/user-attachments/assets/38bd5f58-ce62-43f8-9291-fb798e0dcfea" />
-
+<img width="1920" height="1080" alt="Screenshot From 2026-05-25 16-13-31" src="https://github.com/user-attachments/assets/63af2781-0ad1-4266-8f8d-7b7d64ff41a8" />
 
 
 ## Impact
