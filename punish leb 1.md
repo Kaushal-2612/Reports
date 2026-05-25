@@ -21,7 +21,7 @@ IN https://kzlabs.com/punishment/1.php?fname first name  box is vulnerable to re
 
 ## Payload Used
 
-```Game1</script><svg onload="alert(1)">```
+```<script>alert(1)</script>```
 
 ## Proof of Concept Request
   ```Screemshot 1 : ``` TThe Report Shows Payload add in search bar . Location where payload should be insert. 
